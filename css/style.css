@@ -5514,6 +5514,7 @@ footer .footer-top .footer-widget .twit-foo .twit-list .post p a:hover {
 }
 .about-list {
   list-style-type: circle;
+  margin-left: 2rem;
 }
 .about-list li {
   font-size: 20px;
