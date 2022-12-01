@@ -3469,7 +3469,7 @@ footer .footer-top .footer-widget .twit-foo .twit-list .post p a:hover {
 .breadcumb-area {
   position: relative;
   z-index: inherit !important;
-  background: url(images/dress-girl.jpg);
+  background: url(../images/dress-girl.jpg);
 }
 .breadcumb-area:after {
   background: rgba(0, 0, 0, 0.7);
